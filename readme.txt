@@ -75,6 +75,9 @@ pc engine cd
 msx
 msx2
 
+25/02/2021
+Added 4 new systems (Gamecube, Pokémon Mini, PlayStation 2 and ScummVM).
+Added templates in .psd as a base to create even more systems.
 
 08/10/2017
 Added 6 new systems (amiga, pc, msx, msx2, pcengine cd, game & watch), added custom-collections, added alternate snes-usa system, updated help images to show current ES fuctions.
