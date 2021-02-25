@@ -1,6 +1,6 @@
 Theme designed by Ruckage
-Version 2.3
-08/10/2017
+Version 2.4
+25/02/2021
 
 Theme based on and inspired by the look of the menus used on the NES Classic.
 
@@ -74,6 +74,10 @@ amiga
 pc engine cd
 msx
 msx2
+Gamecube
+PlayStation 2
+Pokémon Mini
+ScummVM
 
 25/02/2021
 Added 4 new systems (Gamecube, Pokémon Mini, PlayStation 2 and ScummVM).
